@@ -1,4 +1,4 @@
-%% たわみ曲線 作成:高見沢, Mail:7523068@ed.tus.ac.jp
+%% たわみ曲線 作成:たかみぃ, Mail:t.takeshi0624@outlook.com
 
 clc         % コマンドウィンドウの初期化
 clear       % ワークスペースの初期化
